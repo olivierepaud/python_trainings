@@ -19,7 +19,7 @@ class anotherClass(myClass):
 
 
 #
-# classes definition
+# functions definition
 #
 def main():
     c = myClass()
